@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#131611"/>
+  <g fill="none" stroke="#c8ff3d" stroke-width="2" opacity="0.15">
+    <path d="M0 40H400 M0 80H400 M0 120H400 M0 160H400 M0 200H400 M0 240H400"/>
+  </g>
+  <g>
+    <rect x="90" y="100" width="220" height="100" rx="8" fill="none" stroke="#c8ff3d" stroke-width="3"/>
+    <text x="200" y="162" font-family="Rajdhani, sans-serif" font-size="34" font-weight="700" fill="#c8ff3d" text-anchor="middle">ODT3D</text>
+  </g>
+</svg>

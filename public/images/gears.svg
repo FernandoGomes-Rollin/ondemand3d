@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#131611"/>
+  <g fill="none" stroke="#c8ff3d" stroke-width="2" opacity="0.15">
+    <path d="M0 40H400 M0 80H400 M0 120H400 M0 160H400 M0 200H400 M0 240H400"/>
+  </g>
+  <g fill="none" stroke="#c8ff3d" stroke-width="3">
+    <circle cx="150" cy="150" r="60"/>
+    <circle cx="150" cy="150" r="14" fill="#0b0d0a"/>
+    <g id="teeth">
+      <path d="M150 90 L156 78 L144 78 Z"/>
+    </g>
+    <circle cx="270" cy="170" r="34"/>
+    <circle cx="270" cy="170" r="8" fill="#0b0d0a"/>
+  </g>
+  <g fill="#c8ff3d">
+    <path d="M150 82 l6 -16 l-12 0 Z"/>
+    <path d="M204 96 l14 -10 l-6 -10 l-14 10 Z" opacity="0.7"/>
+    <path d="M212 150 l16 -6 l0 -12 l-16 6 Z" opacity="0.7"/>
+    <path d="M204 204 l14 10 l-6 10 l-14 -10 Z" opacity="0.7"/>
+    <path d="M150 218 l6 16 l-12 0 Z"/>
+    <path d="M96 204 l-14 10 l6 10 l14 -10 Z" opacity="0.7"/>
+    <path d="M88 150 l-16 6 l0 12 l16 -6 Z" opacity="0.7"/>
+    <path d="M96 96 l-14 -10 l6 -10 l14 10 Z" opacity="0.7"/>
+  </g>
+</svg>
