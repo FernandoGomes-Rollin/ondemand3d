@@ -14,7 +14,7 @@ const categories: Array<ProductCategory> = [
     tagline: 'Componentes de nível de produção, impressos a pedido',
     description:
       'Suportes, invólucros, gabaritos e acessórios, e peças mecânicas personalizadas impressas em filamentos de grau de engenharia. Ajustamos as séries de um único protótipo a lotes de produção de curta duração para oficinas mecânicas e equipas de produto.',
-    image: '/images/parts.svg',
+    image: '/images/Pedal Honda Civic EK Nylon 12 CF.jfif',
     specs: ['PETG, ABS, Nylon, PA-CF', 'Tolerâncias até 0,1mm', 'Séries de 1 a 500+ unidades'],
   },
   {
