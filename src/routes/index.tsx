@@ -106,13 +106,6 @@ function Products() {
             <h2 className="display text-4xl font-bold text-[var(--paper)] md:text-5xl">
               Quatro linhas de produto necessárias para a sua empresa não parar.
             </h2>
-          </div>
-          <p className="max-w-sm text-sm text-[var(--paper-dim)]">
-            Cada categoria é entregue com certificados de material e verificações
-            dimensionais. Envie um desenho ou uma amostra da peça e orçamentamos
-            dentro de um dia útil.
-          </p>
-        </div>
 
         <div className="grid gap-6 md:grid-cols-2">
           {categories.map((category, index) => (
