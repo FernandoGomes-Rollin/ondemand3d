@@ -104,7 +104,7 @@ function Products() {
               O que imprimimos
             </p>
             <h2 className="display text-4xl font-bold text-[var(--paper)] md:text-5xl">
-              Quatro linhas de produto, uma oficina
+              Quatro linhas de produto necessárias para a sua empresa não parar.
             </h2>
           </div>
           <p className="max-w-sm text-sm text-[var(--paper-dim)]">
