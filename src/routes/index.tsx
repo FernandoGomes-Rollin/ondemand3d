@@ -123,7 +123,7 @@ function Products() {
               }`}
             >
               <div className={`flex flex-col ${index === 0 ? 'md:flex-row' : ''}`}>
-                <div className={`${index === 0 ? 'md:w-1/2' : ''} aspect-[4/3] overflow-hidden`}>
+                <div className={`${index === 0 ? 'md:w-1/2' : ''} aspect-[8/6] overflow-hidden`}>
                   <img
                     src={category.image}
                     alt={category.name}
