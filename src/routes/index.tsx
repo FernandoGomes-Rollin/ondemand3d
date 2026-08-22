@@ -59,7 +59,7 @@ function Hero() {
             <img
               src="/images/logo.png"
               alt="Logótipo On Demand 3D"
-              className="mx-auto h-44 w-44 object-contain"
+              className="mx-auto h-56 w-56 object-contain"
             />
             <dl className="mt-8 grid grid-cols-2 gap-6 border-t border-[var(--line)] pt-8 text-center">
               <div>
