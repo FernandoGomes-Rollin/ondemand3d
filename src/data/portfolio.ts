@@ -10,12 +10,12 @@ export interface PortfolioItem {
 const portfolio: Array<PortfolioItem> = [
   {
     id: 1,
-    title: 'Suportes de roletes para transportador',
-    client: 'Ferraria Metalworks',
-    category: 'Peças',
-    image: '/images/portfolio-1.svg',
+    title: 'Pedal de Travão para Honda Civic EG/EK/EJ',
+    client: 'Rollin' Portugal',
+    category: 'Peças Funcionais',
+    image: '/images/Pedal Honda Civic EK Nylon 12 CF.jfif',
     description:
-      'Lote de 84 suportes de roletes em PETG a substituir uma peça OEM descontinuada numa linha de embalagem, entregue em quatro dias.',
+      'Pedido de 1 peça funcional para projeto de carro de competição em PETG-CF. Impresso e entregue em 4 dias úteis',
   },
   {
     id: 2,
