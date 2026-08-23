@@ -152,7 +152,7 @@ function Process() {
     { n: '01', title: 'Envie o ficheiro', body: 'STEP, STL, ou uma fotografia da peça na sua bancada — trabalhamos com o que tiver.' },
     { n: '02', title: 'Orçamentamos e confirmamos', body: 'Material, tolerância e prazo de entrega respondidos dentro de um dia útil.' },
     { n: '03', title: 'Imprimir e inspecionar', body: 'Cada série é verificada dimensionalmente antes de sair da oficina.' },
-    { n: '04', title: 'Enviar ou levantar', body: 'Envio a nível nacional, ou levantamento local na zona do Porto.' },
+    { n: '04', title: 'Enviar ou levantar', body: 'Envio a nível nacional via CTT, ou levantamento local na zona de Lisboa.' },
   ]
   return (
     <section className="border-y border-[var(--line)] bg-[var(--ink-raised)] px-5 py-24 md:px-8">
