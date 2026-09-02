@@ -48,7 +48,7 @@ function Portfolio() {
               key={item.id}
               className="group overflow-hidden rounded-2xl border border-[var(--line)] bg-[var(--ink-raised)] transition-colors hover:border-[var(--lime)]/50"
             >
-              <div className="aspect-[4/3] overflow-hidden">
+              <div className="aspect-square overflow-hidden">
                 <img
                   src={item.image}
                   alt={item.title}
