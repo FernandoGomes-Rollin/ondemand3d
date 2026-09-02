@@ -106,6 +106,8 @@ function Products() {
             <h2 className="display text-4xl font-bold text-[var(--paper)] md:text-5xl">
               Quatro linhas de produto necessárias para a sua empresa não parar.
             </h2>
+          </div>
+        </div>
 
         <div className="grid gap-6 md:grid-cols-2">
           {categories.map((category, index) => (
