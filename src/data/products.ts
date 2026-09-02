@@ -26,7 +26,7 @@ const categories: Array<ProductCategory> = [
     tagline: 'Engrenagens testadas sob carga para mecanismos reais',
     description:
       'Conjuntos de engrenagens retas, helicoidais e planetárias impressos em compósitos de alta resistência para robótica, transportadores e modernização de automação. Cada lote é verificado dimensionalmente antes de sair da oficina.',
-    image: '/images/gears.svg',
+    image: '/images/engrenagens.png',
     specs: ['Nylon com fibra de carbono', 'Módulo 0,5 a módulo 3', 'Conjuntos com folga ajustada'],
   },
   {
@@ -35,7 +35,7 @@ const categories: Array<ProductCategory> = [
     tagline: 'Fixações estruturais construídas à medida',
     description:
       'Suportes de parede, calhas de cabos, invólucros para sensores e suportes estruturais concebidos para carga. Trabalhamos a partir do seu CAD ou fazemos engenharia inversa a partir de uma amostra da peça.',
-    image: '/images/supports.svg',
+    image: '/images/suportes.png',
     specs: ['Documentação de carga nominal', 'Resinas estáveis aos UV disponíveis', 'Entrega na mesma semana'],
   },
   {
