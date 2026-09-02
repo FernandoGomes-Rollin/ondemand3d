@@ -23,14 +23,14 @@ function Hero() {
       <div className="mx-auto grid max-w-7xl items-center gap-12 md:grid-cols-12">
         <div className="rise md:col-span-7">
           <p className="display mb-5 inline-block rounded-sm border border-[var(--lime)]/40 px-3 py-1 text-xs font-bold uppercase tracking-[0.2em] text-[var(--lime)]">
-            Fabrico aditivo, Porto e a nível nacional
+            Fabrico aditivo a nível nacional!
           </p>
           <h1 className="display text-5xl font-bold leading-[0.95] text-[var(--paper)] md:text-7xl">
-            As peças que a sua
+            Modelagem e Impressão 3D
             <br />
-            empresa precisa,
+            que a sua empresa precisa,
             <br />
-            <span className="text-[var(--lime)]">impressas esta semana.</span>
+            <span className="text-[var(--lime)]">dentro do seu país.</span>
           </h1>
           <p className="mt-6 max-w-lg text-lg leading-relaxed text-[var(--paper-dim)]">
             A On Demand 3D produz peças funcionais, engrenagens, suportes
