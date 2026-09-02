@@ -28,9 +28,9 @@ function Hero() {
           <h1 className="display text-5xl font-bold leading-[0.95] text-[var(--paper)] md:text-7xl">
             Modelagem e Impressão 3D
             <br />
-            que a sua empresa precisa,
+          profissional e funcional
             <br />
-            <span className="text-[var(--lime)]">dentro do seu país.</span>
+            <span className="text-[var(--lime)]">que a sua empresa precisa.</span>
           </h1>
           <p className="mt-6 max-w-lg text-lg leading-relaxed text-[var(--paper-dim)]">
             A On Demand 3D produz peças funcionais, engrenagens, suportes
