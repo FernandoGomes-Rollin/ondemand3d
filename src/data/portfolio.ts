@@ -11,7 +11,7 @@ const portfolio: Array<PortfolioItem> = [
   {
     id: 1,
     title: 'Pedal de Travão para Honda Civic EG/EK/EJ',
-    client: 'Rollin' Portugal',
+    client: "Rollin' Portugal",
     category: 'Peças Funcionais',
     image: '/images/Pedal Honda Civic EK Nylon 12 CF.jfif',
     description:
@@ -22,7 +22,7 @@ const portfolio: Array<PortfolioItem> = [
     title: 'Modernização de engrenagem planetária',
     client: 'Nortech Robotics',
     category: 'Engrenagens',
-    image: '/images/portfolio-2.svg',
+    image: '/images/engrenagens.png',
     description:
       'Conjunto planetário em nylon com fibra de carbono para um protótipo de AMR de armazém, com folga ajustada numa série de 12 unidades.',
   },
@@ -31,7 +31,7 @@ const portfolio: Array<PortfolioItem> = [
     title: 'Conjunto de suportes para sensores',
     client: 'Vale Agro Systems',
     category: 'Suportes',
-    image: '/images/portfolio-3.svg',
+    image: '/images/suportes.png',
     description:
       'Suportes de montagem resistentes às intempéries para sensores de humidade de campo, com classificação para exposição UV exterior ao longo de três estações.',
   },
@@ -40,7 +40,7 @@ const portfolio: Array<PortfolioItem> = [
     title: 'Conjunto de emblemas para showroom',
     client: 'Carvalho Motors',
     category: 'Marca',
-    image: '/images/portfolio-4.svg',
+    image: '/images/emblemas.png',
     description:
       'Logótipo dimensional de concessionário e sinalética direcional nas cores da marca para o relançamento de um showroom.',
   },
@@ -49,7 +49,7 @@ const portfolio: Array<PortfolioItem> = [
     title: 'Gabaritos para linha de montagem',
     client: 'Lisboa Fabrication Co.',
     category: 'Peças',
-    image: '/images/portfolio-5.svg',
+    image: '/images/gabaritos.png',
     description:
       'Gabaritos de alinhamento personalizados que reduziram o tempo de montagem numa linha de pequenos eletrodomésticos em cerca de um terço.',
   },
@@ -58,7 +58,7 @@ const portfolio: Array<PortfolioItem> = [
     title: 'Placas de logótipo de secretária',
     client: 'Braga Software House',
     category: 'Marca',
-    image: '/images/portfolio-6.svg',
+    image: '/images/placas-logotipo.png',
     description:
       'Placas de secretária bicolores para a mudança de instalações de um escritório de 40 pessoas, adaptadas ao guia de estilo do cliente.',
   },
