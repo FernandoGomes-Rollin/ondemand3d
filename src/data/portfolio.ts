@@ -40,7 +40,7 @@ const portfolio: Array<PortfolioItem> = [
     title: 'Conjunto de emblemas para showroom',
     client: 'Carvalho Motors',
     category: 'Marca',
-    image: '/images/emblemas.png',
+    image: '/images/placas.png',
     description:
       'Logótipo dimensional de concessionário e sinalética direcional nas cores da marca para o relançamento de um showroom.',
   },
