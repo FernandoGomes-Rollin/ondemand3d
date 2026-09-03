@@ -58,7 +58,7 @@ const portfolio: Array<PortfolioItem> = [
     title: 'Placas de logótipo de secretária',
     client: 'Braga Software House',
     category: 'Marca',
-    image: '/images/placas-logotipo.png',
+    image: '/images/Logotipos.png',
     description:
       'Placas de secretária bicolores para a mudança de instalações de um escritório de 40 pessoas, adaptadas ao guia de estilo do cliente.',
   },
