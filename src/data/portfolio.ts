@@ -40,7 +40,7 @@ const portfolio: Array<PortfolioItem> = [
     title: 'Conjunto de emblemas para showroom',
     client: 'Carvalho Motors',
     category: 'Marca',
-    image: '/images/placas.png',
+    image: '/images/Logotipos.png',
     description:
       'Logótipo dimensional de concessionário e sinalética direcional nas cores da marca para o relançamento de um showroom.',
   },
@@ -58,7 +58,7 @@ const portfolio: Array<PortfolioItem> = [
     title: 'Placas de logótipo de secretária',
     client: 'Braga Software House',
     category: 'Marca',
-    image: '/images/Logotipos.png',
+    image: '/images/placas.png',
     description:
       'Placas de secretária bicolores para a mudança de instalações de um escritório de 40 pessoas, adaptadas ao guia de estilo do cliente.',
   },
