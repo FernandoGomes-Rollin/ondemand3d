@@ -11,7 +11,7 @@ const portfolio: Array<PortfolioItem> = [
   {
     id: 1,
     title: 'Logótipo de decoração',
-    client: 'Rollin' Portugal',
+    client: 'Rollin Portugal',
     category: 'Marca',
     image: '/images/MVIMG_20260905_125217.jpg',
     description:
