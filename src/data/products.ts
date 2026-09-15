@@ -10,7 +10,7 @@ export interface ProductCategory {
 const categories: Array<ProductCategory> = [
   {
     id: 'parts',
-    name: 'Peças',
+    name: 'Peças Funcionais',
     tagline: 'Componentes de nível de produção, impressos a pedido',
     description:
       'Suportes, invólucros, gabaritos e acessórios, e peças mecânicas personalizadas impressas em filamentos de grau de engenharia. Ajustamos as séries de um único protótipo a lotes de produção de curta duração para oficinas mecânicas e equipas de produto.',
