@@ -32,7 +32,7 @@ const categories: Array<ProductCategory> = [
     tagline: 'Fixações estruturais construídas à medida',
     description:
       'Suportes de parede, calhas de cabos, invólucros para sensores e suportes estruturais concebidos para carga. Trabalhamos a partir do seu CAD ou fazemos engenharia inversa a partir de uma amostra da peça.',
-    image: '/images/suportes.png',
+    image: '/images/MVIMG_20260911_105351.jpg',
     specs: ['Documentação de carga nominal', 'Resinas estáveis aos UV disponíveis', 'Entrega na mesma semana'],
   },
   {
