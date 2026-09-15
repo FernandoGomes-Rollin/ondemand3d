@@ -26,6 +26,6 @@ const portfolio: Array<PortfolioItem> = [
     description:
       'Suporte para fixação na parede de apafusadora impresso em PETG',
   },
-
+]
 
 export default portfolio
