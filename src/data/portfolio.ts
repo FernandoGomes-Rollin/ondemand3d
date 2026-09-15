@@ -26,6 +26,15 @@ const portfolio: Array<PortfolioItem> = [
     description:
       'Suporte para fixação na parede de apafusadora impresso em PETG',
   },
+  {
+    id:3,
+    title: 'Suporte de parede para Aparafusadora',
+    client: 'Fenix Craft',
+    category: 'Suportes',
+    image: '/images/MVIMG_20260906_171038.jpg',
+    description:
+      'Suporte para monitor Xiaomi com ângulo de 45° para utilização em setup de 2 monitores em uma mesa de escritório.',
+  },
 ]
 
 export default portfolio
