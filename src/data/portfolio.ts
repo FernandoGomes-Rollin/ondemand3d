@@ -35,6 +35,15 @@ const portfolio: Array<PortfolioItem> = [
     description:
       'Suporte para monitor Xiaomi com ângulo de 45° para utilização em setup de 2 monitores em uma mesa de escritório.',
   },
+   {
+    id:4,
+    title: 'Logótipo de decoração',
+    client: 'Particular',
+    category: 'Marca',
+    image: '/images/MVIMG_20260904_231542.jpg',
+    description:
+      'Logótipo "Mercedes-Benz" para fixar em parede de garagem do cliente.',
+  },
 ]
 
 export default portfolio
