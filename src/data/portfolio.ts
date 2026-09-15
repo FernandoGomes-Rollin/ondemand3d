@@ -37,12 +37,12 @@ const portfolio: Array<PortfolioItem> = [
   },
   {
     id: 4,
-    title: 'Conjunto de emblemas para showroom',
-    client: 'Carvalho Motors',
+    title: 'Logótipo de decoração',
+    client: 'Rollin' Portugal',
     category: 'Marca',
-    image: '/images/Logotipos.png',
+    image: '/images/MVIMG_20260905_125217.jpg',
     description:
-      'Logótipo dimensional de concessionário e sinalética direcional nas cores da marca para o relançamento de um showroom.',
+      'Logótipo dimensional de Empresa de Media automóvel para decoração',
   },
   {
     id: 5,
