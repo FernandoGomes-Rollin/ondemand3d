@@ -41,7 +41,7 @@ const categories: Array<ProductCategory> = [
     tagline: 'Marca dimensional para showrooms e eventos',
     description:
       'Placas de logótipo multicolor, sinalética para feiras e emblemas de secretária impressos na paleta exata da sua marca, com ferragens de montagem incluídas.',
-    image: '/images/branding.svg',
+    image: '/images/MVIMG_20260905_125217.jpg',
     specs: ['Correspondência de cor multi-material', 'Montagem de parede ou secretária', 'Preços em quantidade para franchisados'],
   },
 ]
