@@ -46,12 +46,12 @@ const portfolio: Array<PortfolioItem> = [
   },
   {
     id: 5,
-    title: 'Gabaritos para linha de montagem',
-    client: 'Lisboa Fabrication Co.',
-    category: 'Peças',
-    image: '/images/gabaritos.png',
+    title: 'Suporte de parede para Aparafusadora',
+    client: 'Empresa de fabricação de paletes',
+    category: 'Suportes',
+    image: '/images/MVIMG_20260911_105351.jpg',
     description:
-      'Gabaritos de alinhamento personalizados que reduziram o tempo de montagem numa linha de pequenos eletrodomésticos em cerca de um terço.',
+      'Suporte para fixação na parede de apafusadora impresso em PETG',
   },
   {
     id: 6,
