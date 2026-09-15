@@ -28,7 +28,7 @@ const portfolio: Array<PortfolioItem> = [
   },
   {
     id:3,
-    title: 'Suporte de parede para Aparafusadora',
+    title: 'Suporte de monitor',
     client: 'Fenix Craft',
     category: 'Suportes',
     image: '/images/MVIMG_20260906_171038.jpg',
